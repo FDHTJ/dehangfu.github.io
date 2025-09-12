@@ -23,7 +23,7 @@ repository               : FDHTJ/dehangfu.github.io
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://avatars.githubusercontent.com/u/151171604?v=4"
+  avatar           : "./images/atar.jpg"#"https://avatars.githubusercontent.com/u/151171604?v=4"
   name             : "Dehangfu"
   pronouns         : He/His  
   bio              : "Short biography for the left-hand sidebar"
