@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Hello, my name is Dehang Fu (付德航). I am currently a final-year student at the [Central University of Finance and Economics](https://www.cufe.edu.cn), and I come from Heze, a city in Shandong province, China.
+Hello, my name is Dehang Fu (付德航). I am currently a final-year student at the [Central University of Finance and Economics](https://www.cufe.edu.cn) majoring Computer Science, and I come from Heze, a city in Shandong province, China.
