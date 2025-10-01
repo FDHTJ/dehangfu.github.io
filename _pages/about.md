@@ -13,6 +13,6 @@ In addition, I am skilled in web development with Vue and Spring Boot, and have 
 
 ## 🎓 Research Publications
 
-- **[Detecting Intent Drift in Continuous Conversation via Temporal Transition Accumulation]([https://icdm2025.org/program/](https://www3.cs.stonybrook.edu/~icdm2025/index.html))**  
+- **[Detecting Intent Drift in Continuous Conversation via Temporal Transition Accumulation](https://www3.cs.stonybrook.edu/~icdm2025/index.html)**  
   *Yue Wang, **Dehang Fu**, Jie Tan, Junxiao Han, Yao Wan, Lixin Cui, Lu Bai, Philip S. Yu*  
   Accepted at **IEEE International Conference on Data Mining (ICDM 2025)** 🎉  
