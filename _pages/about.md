@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Introductino of Dehang Fu"
+title: "Introduction of Dehang Fu"
 author_profile: true
 redirect_from: 
   - /about/
