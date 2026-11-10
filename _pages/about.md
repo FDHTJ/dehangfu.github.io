@@ -12,7 +12,10 @@ I am familiar with common algorithms (see my [LeetCode profile](https://leetcode
 In addition, I am skilled in web development with Vue and Spring Boot, and have prior Android development experience. One example of my web project is the [Information Retrieval System](https://github.com/FDHTJ/information_retrieval_system).
 
 ## 🎓 Research Publications
+- **[LLMVulFinder: Letting Large Language Models Tell All]**  
+  *WANG YAN, **FU DEHANG(Co-first Author)**, ZHENG YANAN, NGUYEN TIEN, DING LING, YADAVALLY AASHISH, WANG SHAOHUA*
+  Accepted at **ACM Transactions on Software Engineering and Methodology (TOSEM 2026)** 🎉
 
 - **[Detecting Intent Drift in Continuous Conversation via Temporal Transition Accumulation](https://www3.cs.stonybrook.edu/~icdm2025/index.html)**  
-  *Yue Wang, **Dehang Fu**, Jie Tan, Junxiao Han, Yao Wan, Lixin Cui, Lu Bai, Philip S. Yu*  
+  *Yue Wang, **Dehang Fu(Student First Author)**, Jie Tan, Junxiao Han, Yao Wan, Lixin Cui, Lu Bai, Philip S. Yu*  
   Accepted at **IEEE International Conference on Data Mining (ICDM 2025)** 🎉  
