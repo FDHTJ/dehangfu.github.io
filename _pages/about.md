@@ -12,7 +12,7 @@ I am familiar with common algorithms (see my [LeetCode profile](https://leetcode
 In addition, I am skilled in web development with Vue and Spring Boot, and have prior Android development experience. One example of my web project is the [Information Retrieval System](https://github.com/FDHTJ/information_retrieval_system).
 
 ## 🎓 Research Publications
-- **[LLMVulFinder: Letting Large Language Models Tell All]**  
+- **LLMVulFinder: Letting Large Language Models Tell All**  
   *WANG YAN, **FU DEHANG(Co-first Author)**, ZHENG YANAN, NGUYEN TIEN, DING LING, YADAVALLY AASHISH, WANG SHAOHUA*
   Accepted at **ACM Transactions on Software Engineering and Methodology (TOSEM 2026)** 🎉
 
